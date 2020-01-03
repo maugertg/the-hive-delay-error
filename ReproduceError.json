@@ -1,0 +1,12 @@
+{
+  "name": "ReproduceError",
+  "license": "MIT",
+  "author": "Nobody",
+  "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
+  "version": "1.0",
+  "description": "Reproduce Error when analyzer takes 7+ minutes to run",
+  "dataTypeList": ["hash"],
+  "command": "ReproduceError/ReproduceError.py",
+  "baseConfig": "LearnOutput",
+  "configurationItems": []
+}
