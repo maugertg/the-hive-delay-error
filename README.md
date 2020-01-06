@@ -1,4 +1,6 @@
 # The Hive analysis ~420 second analysis failure
+This is a known issue [Issue #1156](https://github.com/TheHive-Project/TheHive/issues/1156)
+
 When an Analyzer takes longer than ~420 seconds to complete The Hive fails to fetch the results producing the following error in the ```application.log```
 
 ```
